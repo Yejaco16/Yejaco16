@@ -15,7 +15,7 @@
 - Informatica Basica 💻
 - Instalación y configuración
 de redes y fibra óptica 📺
-- Ingles Basico Nvl 1, Nvl 2 🇺🇸
+- Ingles Basico Nvl 2 🇺🇸
 - interfaz grafica de usuario
 en el desarrollo de software
 -GUI 📊
