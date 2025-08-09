@@ -1,6 +1,6 @@
 <h1 align="center"> ¡Hola!, soy Yessica Jaramillo Cortina 😃</h1> 
 <h3 align="center">  👩‍🦱Estudiante de programacion de sistemas 🖥️</h3> 
-<h4 align="center"> Soy de Cartagena, Colombia 🇨🇴 </h4> 
+<h4 align="center"> Soy de Cartagena, Colombia  </h4> 
 
 
 ## 🖋️Datos sobre mi 📖
